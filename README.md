@@ -8,7 +8,7 @@ This extension adds direct link to perform this action within notification bar. 
 
 ### Installation
 
-Execute this commands in order to install this extension:
+Execute these commands in order to install this extension:
 
 `composer require brightlights/admincachemessage`
 
