@@ -1,9 +1,0 @@
-<?xml version="1.0" ?>
-
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="urn:magento:module:BrightLights_Configurator:etc/configurators.xsd">
-        <configurator id="test" name="test">
-            <id>shirtxxx</id>
-            <name>Custom shirt</name>
-            <postcode>90210</postcode>
-        </configurator>
-</config>
